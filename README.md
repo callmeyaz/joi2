@@ -1,11 +1,15 @@
-# joi
+# joi2
+
+This is a Fork from original joi library. The owner of Joi has not updated the library for past 2 years so we will do it here!
+
+Let us fix it here!
 
 #### The most powerful schema description language and data validator for JavaScript.
 
 ## Installation
-`npm install joi`
+`npm install joi2`
 
-### Visit the [joi.dev](https://joi.dev) Developer Portal for tutorials, documentation, and support
+### For Outdated documentation Visit the [joi.dev](https://joi.dev) Developer Portal for tutorials, documentation, and support
 
 ## Useful resources
 
